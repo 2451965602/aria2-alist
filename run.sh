@@ -17,6 +17,8 @@ Debug = false
 SessionSecret = 7cF5vIg8XLKtFOLU2kFNgz6zAkDS8w2Lyw1qSlIkEAod5TewkKPqU9X9b4CtH3qS
 ; Hash 加盐, 一般在首次启动时自动生成
 HashIDSalt = kfIWhhcteuRACDnXtgkilGDgOdI8c6j2Prn9lUzossrOZn1pi46SXb80XFAaKMF3
+[Slave]
+Secret = acYPSePLErXswLS76Tie6Y4tnTESUwi9sgCf8O1vuUajQrfc3v6LCcInhsyTKJGU
 EOF
 
 ## 运行
